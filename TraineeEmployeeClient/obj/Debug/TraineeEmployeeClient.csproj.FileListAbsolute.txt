@@ -1,0 +1,6 @@
+C:\Users\vkamat\documents\visual studio 2015\Projects\TraineeEmployeeClient\TraineeEmployeeClient\bin\Debug\TraineeEmployeeClient.exe.config
+C:\Users\vkamat\documents\visual studio 2015\Projects\TraineeEmployeeClient\TraineeEmployeeClient\bin\Debug\TraineeEmployeeClient.exe
+C:\Users\vkamat\documents\visual studio 2015\Projects\TraineeEmployeeClient\TraineeEmployeeClient\bin\Debug\TraineeEmployeeClient.pdb
+C:\Users\vkamat\documents\visual studio 2015\Projects\TraineeEmployeeClient\TraineeEmployeeClient\obj\Debug\TraineeEmployeeClient.csprojResolveAssemblyReference.cache
+C:\Users\vkamat\documents\visual studio 2015\Projects\TraineeEmployeeClient\TraineeEmployeeClient\obj\Debug\TraineeEmployeeClient.exe
+C:\Users\vkamat\documents\visual studio 2015\Projects\TraineeEmployeeClient\TraineeEmployeeClient\obj\Debug\TraineeEmployeeClient.pdb
